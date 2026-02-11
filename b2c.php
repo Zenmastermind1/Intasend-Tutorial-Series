@@ -7,7 +7,7 @@ use IntaSend\IntaSendPHP\Transfer;
 global $credentials;
 
 $transactions = [
-    ['account'=>'254740408496','amount'=>'10', 'narrative'=>'Salary'],
+    ['account'=>'254790805793','amount'=>'10', 'narrative'=>'Salary'],
 ];
 
 $transfer = new Transfer();
